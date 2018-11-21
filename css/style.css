@@ -1,0 +1,168 @@
+body{
+	background-color: rgba(20,20,20, 0.1);
+}
+a {
+	text-decoration: none;
+}
+a:link {
+  color: #154088; 
+}
+a:visited {
+  color: #154088; 
+}
+.as:hover {
+  color: #497DDD; 
+  border-bottom: .07em solid;
+}
+a:active {
+  color: #154088; 
+}
+.header{
+	background-color: rgba(20,20,20, 0.7);
+	height: 60px;
+	padding: 10px;
+}
+.header-img{
+	text-align: center;
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.header-text{
+	color: white;
+	font-size: 25px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.menu{
+	margin-left: 40px;
+	margin-right: 5px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.header-button{
+	color: white;
+	display: inline-block;
+	margin: 10px;
+}
+.title{
+	vertical-align: middle;
+	display: inline-block;
+}
+.main{
+	margin-bottom: 50px;
+}
+.main-section{
+	background-image: url(../img/brd2.jpeg);
+	width: 100%;
+	height: 454px;
+	padding-top: 50px;
+}
+.main-img{
+	margin-left: 70px;
+	margin-bottom: 20px;
+	width: 60px;
+	height: 60px;
+}
+.services{
+	padding: 20px;
+}
+.services-title{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+.row-m{
+	margin-bottom: 50px;
+}
+.col_m{
+	margin-bottom: 50px;
+}
+.col-img{
+	margin-right: 15px;
+	display: inline-block;
+	vertical-align: middle;
+	height: 150px;
+	width: 150px;
+}
+.col-text{
+	display: inline-block;
+	vertical-align: middle;
+	height: 150px;
+	width: 300px;
+}
+.col-title{
+	font-family: Tahoma;
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 15px;
+}
+.text-ser{
+	font-family: Tahoma;
+	font-size: 15px;
+}
+.work{
+	background-color: white;
+	padding-top: 50px;
+	margin-bottom: 50px;
+}
+.work-title{
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 50px;
+}
+.col__work{
+	width: 300px;
+	height: 322px;
+	margin-bottom: 50px;
+}
+.work-img{
+	width: 300px;
+	height: 300px;
+}
+.work-text{
+	font-family: Tahoma;
+	font-size: 20px;
+}
+.work-text1{
+	margin-left: 40px;
+}
+.work-text2{
+	margin-left: 85px;
+}
+.work-text3{
+	margin-left: 55px;
+}
+.work-text4{
+	margin-left: 70px;
+}
+.about-title{
+	text-align: center;
+	font-size: 30px;
+	font-family: Tahoma;
+}
+.about-p{
+	font-family: Tahoma;
+	font-size: 20px;
+	padding: 50px;	
+}
+.footer{
+	background-color: rgba(20,20,20,0.9);
+	height: 60px;
+	padding: 20px;
+}
+.footer-text{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 20px;
+	color: rgb(120,120,120);
+}
+.right {
+	display: inline-block;
+	vertical-align: middle;
+	float: right;
+	width: 30px;
+	height: 30px;
+	margin-right: 5px;
+}
